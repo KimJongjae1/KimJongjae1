@@ -1,7 +1,17 @@
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=gghs703)](https://solved.ac/profile/gghs703)
 
-[📄 경력 포트폴리오 PDF 보기](./김종재_직장_포트폴리오.pdf)
+### FullStack  & MES Developer
 
-[📄 교육생 시절 포트폴리오 PDF 보기](./김종재_포트폴리오.pdf)
+Currently working as a MES Developer at ACS.
+
+I develop and maintain manufacturing system features using React, C#, WinForms, SQL Server, and ASP.NET WebForms.
+
+Completed a one-year software engineering training program at Samsung Software Academy For Youth, focusing on Java/Spring Boot backend development and infrastructure.
+
+Interested in MES/ERP, backend engineering.
+
+[Career Portfolio PDF](./career-portfolio.pdf)
+
+[Samsung Software Academy Portfolio PDF](./ssafy-portfolio.pdf)
 
 
