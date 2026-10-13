@@ -10,7 +10,7 @@ Completed a one-year software engineering training program at Samsung Software A
 
 Interested in MES/ERP, backend engineering.
 
-[Career Portfolio PDF](./career-portfolio.pdf)
+[Career Portfolio PDF](./career_portfolio.pdf)
 
 [Samsung Software Academy Portfolio PDF](./ssafy-portfolio.pdf)
 
